@@ -1,2 +1,2 @@
 # Confuzim
-Personal site about me
+Personal site to track my programming experience.
