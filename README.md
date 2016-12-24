@@ -1,2 +1,2 @@
-# confuzim.github.io
+# Confuzim
 Personal site about me
